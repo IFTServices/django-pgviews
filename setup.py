@@ -34,5 +34,5 @@ setup(
         'Framework :: Django :: 1.10',
         'Framework :: Django :: 1.11',
         'Framework :: Django :: 2.20',
-    ]
+    ], install_requires=['six']
 )
